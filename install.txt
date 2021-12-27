@@ -1,0 +1,5 @@
+1.create new database with name : meetingapp and user = root and password = "" and host = 127.0.0.1
+2. open terminal in project folder , type : php artisan migrate
+3. after migrated u can turn on your localhost and move project folder to /www/ folder in your localhost folder 
+4. On now! u can run app on your local host !yeah
+
